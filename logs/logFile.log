@@ -1,0 +1,101 @@
+[INFO ] 2025-01-28 22:22:24.225 [pool-3-thread-1] TaskScheduler - Task scheduled: Regression Tests
+[INFO ] 2025-01-28 22:22:24.225 [pool-2-thread-1] TaskScheduler - Executing task: Regression Tests on thread: pool-2-thread-1
+[INFO ] 2025-01-28 22:22:24.229 [pool-2-thread-1] Task - Regression Tests is starting.
+[INFO ] 2025-01-28 22:22:25.220 [pool-3-thread-1] TaskScheduler - Task scheduled: Performance Testing
+[INFO ] 2025-01-28 22:22:25.220 [pool-2-thread-4] TaskScheduler - Executing task: Performance Testing on thread: pool-2-thread-4
+[INFO ] 2025-01-28 22:22:25.222 [pool-2-thread-4] Task - Performance Testing is starting.
+[INFO ] 2025-01-28 22:22:27.222 [pool-3-thread-1] TaskScheduler - Task scheduled: Database Connection Check
+[INFO ] 2025-01-28 22:22:27.224 [pool-2-thread-4] Task - Performance Testing is completed.
+[INFO ] 2025-01-28 22:22:27.222 [pool-2-thread-3] TaskScheduler - Executing task: Database Connection Check on thread: pool-2-thread-3
+[INFO ] 2025-01-28 22:22:27.262 [pool-2-thread-3] Task - Database Connection Check is starting.
+[INFO ] 2025-01-28 22:22:30.232 [pool-2-thread-1] Task - Regression Tests is completed.
+[INFO ] 2025-01-28 22:22:31.275 [pool-2-thread-3] Task - Database Connection Check is completed.
+[INFO ] 2025-01-28 22:22:33.222 [main] TaskScheduler - Stopping scheduler...
+[INFO ] 2025-01-28 22:22:33.270 [pool-2-thread-1] TaskScheduler - Worker thread terminated: pool-2-thread-1
+[INFO ] 2025-01-28 22:22:33.301 [pool-2-thread-3] TaskScheduler - Worker thread terminated: pool-2-thread-3
+[INFO ] 2025-01-28 22:22:33.301 [pool-2-thread-2] TaskScheduler - Worker thread terminated: pool-2-thread-2
+[INFO ] 2025-01-28 22:22:33.301 [pool-2-thread-5] TaskScheduler - Worker thread terminated: pool-2-thread-5
+[INFO ] 2025-01-28 22:22:33.316 [pool-2-thread-4] TaskScheduler - Worker thread terminated: pool-2-thread-4
+[INFO ] 2025-01-28 22:23:10.590 [pool-2-thread-3] TaskScheduler - Executing task: Performance Testing on thread: pool-2-thread-3
+[INFO ] 2025-01-28 22:23:10.594 [pool-2-thread-3] Task - Performance Testing is starting.
+[INFO ] 2025-01-28 22:23:10.590 [pool-3-thread-1] TaskScheduler - Task scheduled: Performance Testing
+[INFO ] 2025-01-28 22:23:12.578 [pool-3-thread-1] TaskScheduler - Task scheduled: Regression Tests
+[INFO ] 2025-01-28 22:23:12.577 [pool-2-thread-4] TaskScheduler - Executing task: Regression Tests on thread: pool-2-thread-4
+[INFO ] 2025-01-28 22:23:12.579 [pool-2-thread-4] Task - Regression Tests is starting.
+[INFO ] 2025-01-28 22:23:12.596 [pool-2-thread-3] Task - Performance Testing is completed.
+[INFO ] 2025-01-28 22:23:15.577 [main] TaskScheduler - Stopping scheduler...
+[INFO ] 2025-01-28 22:23:15.624 [pool-2-thread-3] TaskScheduler - Worker thread terminated: pool-2-thread-3
+[INFO ] 2025-01-28 22:23:15.671 [pool-2-thread-2] TaskScheduler - Worker thread terminated: pool-2-thread-2
+[INFO ] 2025-01-28 22:23:15.671 [pool-2-thread-1] TaskScheduler - Worker thread terminated: pool-2-thread-1
+[INFO ] 2025-01-28 22:23:15.674 [pool-2-thread-5] TaskScheduler - Worker thread terminated: pool-2-thread-5
+[INFO ] 2025-01-28 22:23:18.591 [pool-2-thread-4] Task - Regression Tests is completed.
+[INFO ] 2025-01-28 22:23:18.591 [pool-2-thread-4] TaskScheduler - Worker thread terminated: pool-2-thread-4
+[INFO ] 2025-01-28 22:23:19.589 [pool-3-thread-1] TaskScheduler - Task scheduled: Database Connection Check
+[INFO ] 2025-01-28 22:23:33.418 [pool-3-thread-1] TaskScheduler - Task scheduled: Database Connection Check
+[INFO ] 2025-01-28 22:23:33.419 [pool-2-thread-3] TaskScheduler - Executing task: Database Connection Check on thread: pool-2-thread-3
+[INFO ] 2025-01-28 22:23:33.426 [pool-2-thread-3] Task - Database Connection Check is starting.
+[INFO ] 2025-01-28 22:23:34.413 [pool-3-thread-1] TaskScheduler - Task scheduled: Performance Testing
+[INFO ] 2025-01-28 22:23:34.413 [pool-2-thread-2] TaskScheduler - Executing task: Performance Testing on thread: pool-2-thread-2
+[INFO ] 2025-01-28 22:23:34.413 [pool-2-thread-2] Task - Performance Testing is starting.
+[INFO ] 2025-01-28 22:23:36.413 [pool-2-thread-1] TaskScheduler - Executing task: Regression Tests on thread: pool-2-thread-1
+[INFO ] 2025-01-28 22:23:36.413 [pool-3-thread-1] TaskScheduler - Task scheduled: Regression Tests
+[INFO ] 2025-01-28 22:23:36.416 [pool-2-thread-1] Task - Regression Tests is starting.
+[INFO ] 2025-01-28 22:23:36.429 [pool-2-thread-2] Task - Performance Testing is completed.
+[INFO ] 2025-01-28 22:23:37.430 [pool-2-thread-3] Task - Database Connection Check is completed.
+[INFO ] 2025-01-28 22:23:39.411 [main] TaskScheduler - Stopping scheduler...
+[INFO ] 2025-01-28 22:23:39.442 [pool-2-thread-3] TaskScheduler - Worker thread terminated: pool-2-thread-3
+[INFO ] 2025-01-28 22:23:39.458 [pool-2-thread-2] TaskScheduler - Worker thread terminated: pool-2-thread-2
+[INFO ] 2025-01-28 22:23:39.473 [pool-2-thread-4] TaskScheduler - Worker thread terminated: pool-2-thread-4
+[INFO ] 2025-01-28 22:23:39.473 [pool-2-thread-5] TaskScheduler - Worker thread terminated: pool-2-thread-5
+[INFO ] 2025-01-28 22:23:42.425 [pool-2-thread-1] Task - Regression Tests is completed.
+[INFO ] 2025-01-28 22:23:42.426 [pool-2-thread-1] TaskScheduler - Worker thread terminated: pool-2-thread-1
+[INFO ] 2025-01-28 22:27:17.533 [pool-2-thread-4] TaskScheduler - Executing task: Database Connection Check on thread: pool-2-thread-4
+[INFO ] 2025-01-28 22:27:17.533 [pool-3-thread-1] TaskScheduler - Task scheduled: Database Connection Check
+[INFO ] 2025-01-28 22:27:17.537 [pool-2-thread-4] Task - Database Connection Check is starting.
+[INFO ] 2025-01-28 22:27:18.527 [pool-3-thread-1] TaskScheduler - Task scheduled: Performance Testing
+[INFO ] 2025-01-28 22:27:18.527 [pool-2-thread-1] TaskScheduler - Executing task: Performance Testing on thread: pool-2-thread-1
+[INFO ] 2025-01-28 22:27:18.528 [pool-2-thread-1] Task - Performance Testing is starting.
+[INFO ] 2025-01-28 22:27:20.526 [pool-2-thread-5] TaskScheduler - Executing task: Regression Tests on thread: pool-2-thread-5
+[INFO ] 2025-01-28 22:27:20.528 [pool-2-thread-5] Task - Regression Tests is starting.
+[INFO ] 2025-01-28 22:27:20.526 [pool-3-thread-1] TaskScheduler - Task scheduled: Regression Tests
+[INFO ] 2025-01-28 22:27:20.541 [pool-2-thread-1] Task - Performance Testing is completed.
+[INFO ] 2025-01-28 22:27:21.541 [pool-2-thread-4] Task - Database Connection Check is completed.
+[INFO ] 2025-01-28 22:27:23.517 [main] TaskScheduler - Stopping scheduler...
+[INFO ] 2025-01-28 22:27:23.548 [pool-2-thread-4] TaskScheduler - Worker thread terminated: pool-2-thread-4
+[INFO ] 2025-01-28 22:27:23.564 [pool-2-thread-1] TaskScheduler - Worker thread terminated: pool-2-thread-1
+[INFO ] 2025-01-28 22:27:23.579 [pool-2-thread-3] TaskScheduler - Worker thread terminated: pool-2-thread-3
+[INFO ] 2025-01-28 22:27:23.579 [pool-2-thread-2] TaskScheduler - Worker thread terminated: pool-2-thread-2
+[INFO ] 2025-01-28 22:27:26.531 [pool-2-thread-5] Task - Regression Tests is completed.
+[INFO ] 2025-01-28 22:27:26.532 [pool-2-thread-5] TaskScheduler - Worker thread terminated: pool-2-thread-5
+[INFO ] 2025-01-28 22:30:21.884 [pool-3-thread-1] TaskScheduler - Task scheduled: Database Connection Check
+[INFO ] 2025-01-28 22:30:21.884 [pool-2-thread-2] TaskScheduler - Executing task: Database Connection Check on thread: pool-2-thread-2
+[INFO ] 2025-01-28 22:30:21.888 [pool-2-thread-2] Task - Database Connection Check is starting.
+[INFO ] 2025-01-28 22:30:22.873 [pool-3-thread-1] TaskScheduler - Task scheduled: Performance Testing
+[INFO ] 2025-01-28 22:30:22.873 [pool-2-thread-1] TaskScheduler - Executing task: Performance Testing on thread: pool-2-thread-1
+[INFO ] 2025-01-28 22:30:22.875 [pool-2-thread-1] Task - Performance Testing is starting.
+[INFO ] 2025-01-28 22:30:24.868 [pool-3-thread-1] TaskScheduler - Task scheduled: Regression Tests
+[INFO ] 2025-01-28 22:30:24.868 [pool-2-thread-3] TaskScheduler - Executing task: Regression Tests on thread: pool-2-thread-3
+[INFO ] 2025-01-28 22:30:24.869 [pool-2-thread-3] Task - Regression Tests is starting.
+[INFO ] 2025-01-28 22:30:24.884 [pool-2-thread-1] Task - Performance Testing is completed.
+[INFO ] 2025-01-28 22:30:25.895 [pool-2-thread-2] Task - Database Connection Check is completed.
+[INFO ] 2025-01-28 22:30:27.864 [main] TaskScheduler - Stopping scheduler...
+[INFO ] 2025-01-28 22:30:27.927 [pool-2-thread-1] TaskScheduler - Worker thread terminated: pool-2-thread-1
+[INFO ] 2025-01-28 22:30:27.927 [pool-2-thread-2] TaskScheduler - Worker thread terminated: pool-2-thread-2
+[INFO ] 2025-01-28 22:30:30.882 [pool-2-thread-3] Task - Regression Tests is completed.
+[INFO ] 2025-01-28 22:30:30.882 [pool-2-thread-3] TaskScheduler - Worker thread terminated: pool-2-thread-3
+[INFO ] 2025-01-28 22:37:02.322 [pool-3-thread-1] TaskScheduler - Task scheduled: Database Connection Check
+[INFO ] 2025-01-28 22:37:02.322 [pool-2-thread-2] TaskScheduler - Executing task: Database Connection Check on thread: pool-2-thread-2
+[INFO ] 2025-01-28 22:37:02.327 [pool-2-thread-2] Task - Database Connection Check is starting.
+[INFO ] 2025-01-28 22:37:03.316 [pool-3-thread-1] TaskScheduler - Task scheduled: Performance Testing
+[INFO ] 2025-01-28 22:37:03.316 [pool-2-thread-3] TaskScheduler - Executing task: Performance Testing on thread: pool-2-thread-3
+[INFO ] 2025-01-28 22:37:03.318 [pool-2-thread-3] Task - Performance Testing is starting.
+[INFO ] 2025-01-28 22:37:05.315 [pool-3-thread-1] TaskScheduler - Task scheduled: Regression Tests
+[INFO ] 2025-01-28 22:37:05.315 [pool-2-thread-1] TaskScheduler - Executing task: Regression Tests on thread: pool-2-thread-1
+[INFO ] 2025-01-28 22:37:05.317 [pool-2-thread-1] Task - Regression Tests is starting.
+[INFO ] 2025-01-28 22:37:05.329 [pool-2-thread-3] Task - Performance Testing is completed.
+[INFO ] 2025-01-28 22:37:06.341 [pool-2-thread-2] Task - Database Connection Check is completed.
+[INFO ] 2025-01-28 22:37:08.323 [main] TaskScheduler - Stopping scheduler...
+[INFO ] 2025-01-28 22:37:08.369 [pool-2-thread-3] TaskScheduler - Worker thread terminated: pool-2-thread-3
+[INFO ] 2025-01-28 22:37:08.369 [pool-2-thread-2] TaskScheduler - Worker thread terminated: pool-2-thread-2
+[INFO ] 2025-01-28 22:37:11.327 [pool-2-thread-1] Task - Regression Tests is completed.
+[INFO ] 2025-01-28 22:37:11.327 [pool-2-thread-1] TaskScheduler - Worker thread terminated: pool-2-thread-1
